@@ -1,0 +1,12 @@
+# Ignorar dependencias
+node_modules/
+
+# Archivos de configuración local
+.env
+
+# Archivos de compilación
+dist/
+build/
+
+# Archivos de sistema
+.DS_Store
